@@ -1,0 +1,54 @@
+button{
+    margin-top:20rem;
+    font-size: large;
+    padding: 0.6rem;
+    border-radius: 0.3rem;
+    border: 0;
+}
+button[name="btn1"] {
+    background-color: rgb(52, 119, 244);
+    color: white;
+     margin-left: 25rem;
+}
+
+button[name="btn2"] {
+    background-color: gray;
+    color: white;
+}
+
+button[name="btn3"] {
+    background-color: green;
+    color: white;
+}
+
+button[name="btn4"] {
+    background-color: red;
+    color: white;
+}
+
+button[name="btn5"] {
+    background-color: rgb(242, 191, 72);
+    color: black;
+
+}
+
+button[name="btn6"] {
+    background-color: rgb(83, 165, 193);
+    color: white;
+}
+
+button[name="btn7"] {
+    background-color: rgb(246, 243, 243);
+    color: black;
+
+}
+
+button[name="btn8"] {
+    background-color: black;
+    color: white;
+  
+}
+button[name="btn9"] {
+    color: rgb(63, 86, 219);
+    background-color: white;
+ 
